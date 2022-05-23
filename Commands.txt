@@ -1,4 +1,5 @@
-#Git push commands
+#Git push commands / Codes
+
 git remote add origin "repo link"
 git init
 
@@ -6,13 +7,13 @@ git init
 
 git add .
 git commit -m "First Commit"
-
 git push origin main
 
 #new commands i found
+
 touch sample.txt - to add file 
-git statusgit 
-git commit -m "sample.txt’ - 
+git status
+git commit -m "sample.txt" - 
 Git add  - 
 git push origin master
 git push origin https://github.com/oyiz-michael/cloudlearn.git
@@ -20,3 +21,33 @@ git branch
 git push origin main 
 git add Commands.txt
 git add .
+
+
+#echo "# terraform-project-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:oyiz-michael/terraform-project-.git
+git push -u origin main
+
+git remote add origin git@github.com:oyiz-michael/terraform-project-.git
+git branch -M main
+git push -u origin main
+
+
+
+================
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew --version (check version of your homebrew)
+brew install git
+git --version
+
+git add "file"
+git add . 
+git remote add origin git@github.com:oyiz-michael/terraform-project-.git
+git commit -m "going live"
+git  push -u “origin master”
+git config —global user.name “Oyiz-michael”
+git config —global user.email “Oyiz.ugn@gmail.com
+git mv (old name) (new name) 
