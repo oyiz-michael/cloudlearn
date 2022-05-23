@@ -8,3 +8,15 @@ git add .
 git commit -m "First Commit"
 
 git push origin main
+
+#new commands i found
+touch sample.txt - to add file 
+git statusgit 
+git commit -m "sample.txt’ - 
+Git add  - 
+git push origin master
+git push origin https://github.com/oyiz-michael/cloudlearn.git
+git branch 
+git push origin main 
+git add Commands.txt
+git add .
