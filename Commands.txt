@@ -51,3 +51,5 @@ git  push -u “origin master”
 git config —global user.name “Oyiz-michael”
 git config —global user.email “Oyiz.ugn@gmail.com
 git mv (old name) (new name) 
+git add --all
+git diff 
